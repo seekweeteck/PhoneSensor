@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700533154472",
+    "firebase_url": "https://phone-sensor-2acb1.firebaseio.com",
+    "project_id": "phone-sensor-2acb1",
+    "storage_bucket": "phone-sensor-2acb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700533154472:android:6dd43942dfd83e00ed189d",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.phonesensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700533154472-shqv1mil0pvbb2ctaqt8cc7es676l5bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6M4nUjMC7XOAAHgybGcei0Z-gRMFXS48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700533154472-shqv1mil0pvbb2ctaqt8cc7es676l5bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
